@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Barcode Stickers",
+    "image": "1.png",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "title": "Thermal Transfer Ribbons",
+    "image": "2.png",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "title": "Plain Stickers",
+    "image": "3.png",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "title": "Scanners",
+    "image": "4.png",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "title": "Printers",
+    "image": "5.png",
+    "description": ""
+  }
+]
