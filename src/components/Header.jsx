@@ -1,11 +1,16 @@
 import React from "react";
-import "../App.css";
-import About from "./About";
 import { Link } from "react-router-dom";
+import "../App.css";
+
 export default function Header() {
   return (
     <div className="header">
-      <img src="src/assets/Logo.png" alt="Labelpark Logo" className="logo" />
+      <img
+        src="/Labelpark/images/Logo.png"
+        alt="Labelpark Logo"
+        className="logo"
+      />
+
       <nav>
         <ul className="nav-links">
           <li>

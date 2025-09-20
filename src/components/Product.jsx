@@ -7,27 +7,27 @@ export default function Product() {
       <div className="label-grid">
         <div className="movie-card">
           <img
-            src="src/assets/img_1.jpg"
+            src="Labelpark/images/img_1.jpg"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_2.png"
+            src="Labelpark/images/img_2.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_3.png"
+            src="Labelpark/images/img_3.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_4.png"
+            src="Labelpark/images/img_4.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_5.webp"
+            src="Labelpark/images/img_5.webp"
             alt="barcode sticker"
             className="label-img"
           />
@@ -37,27 +37,27 @@ export default function Product() {
       <div className="label-grid">
         <div className="movie-card">
           <img
-            src="src/assets/img_6.png"
+            src="Labelpark/images/img_6.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_7.webp"
+            src="Labelpark/images/img_7.webp"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_8.jpg"
+            src="Labelpark/images/img_8.jpg"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_9.png"
+            src="Labelpark/images/img_9.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_10.png"
+            src="Labelpark/images/img_10.png"
             alt="barcode sticker"
             className="label-img"
           />
@@ -67,22 +67,22 @@ export default function Product() {
       <div className="label-grid">
         <div className="movie-card">
           <img
-            src="src/assets/img_11.png"
+            src="Labelpark/images/img_11.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_12.png"
+            src="Labelpark/images/img_12.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_13.png"
+            src="Labelpark/images/img_13.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_14.png"
+            src="Labelpark/images/img_14.png"
             alt="barcode sticker"
             className="label-img"
           />
@@ -92,22 +92,22 @@ export default function Product() {
       <div className="label-grid">
         <div className="movie-card">
           <img
-            src="src/assets/img_15.png"
+            src="Labelpark/images/img_15.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_16.png"
+            src="Labelpark/images/img_16.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_17.png"
+            src="Labelpark/images/img_17.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_18.png"
+            src="Labelpark/images/img_18.png"
             alt="barcode sticker"
             className="label-img"
           />
@@ -118,22 +118,22 @@ export default function Product() {
       <div className="label-grid">
         <div className="movie-card">
           <img
-            src="src/assets/img_19.png"
+            src="Labelpark/images/img_19.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_20.png"
+            src="Labelpark/images/img_20.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_21.png"
+            src="Labelpark/images/img_21.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_22.png"
+            src="Labelpark/images/img_22.png"
             alt="barcode sticker"
             className="label-img"
           />
@@ -143,17 +143,17 @@ export default function Product() {
       <div className="label-grid">
         <div className="movie-card">
           <img
-            src="src/assets/img_23.png"
+            src="Labelpark/images/img_23.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_24.png"
+            src="Labelpark/images/img_24.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_25.png"
+            src="Labelpark/images/img_25.png"
             alt="barcode sticker"
             className="label-img"
           />
@@ -163,17 +163,17 @@ export default function Product() {
       <div className="label-grid">
         <div className="movie-card">
           <img
-            src="src/assets/img_26.png"
+            src="Labelpark/images/img_26.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_27.png"
+            src="Labelpark/images/img_27.png"
             alt="barcode sticker"
             className="label-img"
           />
           <img
-            src="src/assets/img_28.png"
+            src="Labelpark/images/img_28.png"
             alt="barcode sticker"
             className="label-img"
           />

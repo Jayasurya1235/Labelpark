@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import LabelCard from "./components/LabelCard";
@@ -10,20 +10,18 @@ import "./App.css";
 
 function App() {
   return (
-    <Router>
-      <div className="App">
+    <div className="App">
+      <Router>
         <Header />
-
-        {/* Routing setup */}
         <Routes>
           <Route path="/" element={<LabelCard />} />
           <Route path="/about" element={<About />} />
           <Route path="/product" element={<Product />} />
           <Route path="/services" element={<Services />} />
         </Routes>
-        <Footer />
-      </div>
-    </Router>
+      </Router>
+      <Footer />
+    </div>
   );
 }
 
