@@ -1,8 +1,10 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import React, { useState } from "react";
+import { Link, useLocation } from "react-router-dom";
 import "../App.css";
 
 export default function Header() {
+  const location = useLocation();
+
   return (
     <div className="header">
       <img
@@ -14,16 +16,33 @@ export default function Header() {
       <nav>
         <ul className="nav-links">
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/" className={location.pathname === "/" ? "active" : ""}>
+              Home
+            </Link>
           </li>
           <li>
-            <Link to="/about">About</Link>
+            <Link
+              to="/about"
+              className={location.pathname === "/about" ? "active" : ""}
+            >
+              About
+            </Link>
           </li>
           <li>
-            <Link to="/product">Products</Link>
+            <Link
+              to="/product"
+              className={location.pathname === "/product" ? "active" : ""}
+            >
+              Products
+            </Link>
           </li>
           <li>
-            <Link to="/services">Service</Link>
+            <Link
+              to="/services"
+              className={location.pathname === "/services" ? "active" : ""}
+            >
+              Service
+            </Link>
           </li>
         </ul>
       </nav>

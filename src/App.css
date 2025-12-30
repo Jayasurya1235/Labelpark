@@ -165,13 +165,13 @@ body {
   font-weight: 300;
   color: #28312bd5;
   font-family: "Arial Rounded MT Bold", Arial, sans-serif;
-  margin-bottom:0px;
-  margin-top:50px;
-  border:1px solid white;
-  background-color:#c5ebd8e4;
-  width:fit-content;
-  padding:2px;
-  border-radius:5px;
+  margin-bottom: 0px;
+  margin-top: 50px;
+  border: 1px solid white;
+  background-color: #c5ebd8e4;
+  width: fit-content;
+  padding: 2px;
+  border-radius: 5px;
 }
 nav {
   margin-top: 0px;
@@ -196,9 +196,15 @@ nav a {
   border-radius: 20px;
   background-color: #e2f2ead4;
   box-shadow: 0 10px 10px 0 rgb(196, 191, 238);
+  transition: background-color 0.3s ease;
 }
 
 nav a:hover {
+  background-color: #035b30d4;
+  color: white;
+}
+
+nav a.active {
   background-color: #035b30d4;
   color: white;
 }
@@ -271,15 +277,13 @@ input:checked + .slider {
   font-family: "Arial Rounded MT Bold", Arial, sans-serif;
 }
 .label-grid {
-  display: grid;
-  grid-template-rows: repeat(auto-fill, 250px);
-  gap: 2rem 2rem;
-  padding: 1rem;
+  display: flex;
   justify-content: center;
-  
+  gap: 2rem;
+  padding: 2rem;
 }
 .label-card {
-  background-color:#12e48c;
+  background-color: #12e48c;
   border-radius: 8px;
   overflow: hidden;
   transition: transform 0.2s ease-in-out;

@@ -33,6 +33,7 @@ export default function Product() {
           />
         </div>
       </div>
+
       <h2 className="app-subtitle"> Multicolor Stickers</h2>
       <div className="label-grid">
         <div className="movie-card">
@@ -63,6 +64,7 @@ export default function Product() {
           />
         </div>
       </div>
+
       <h2 className="app-subtitle">Synthetic Labels</h2>
       <div className="label-grid">
         <div className="movie-card">
@@ -88,6 +90,7 @@ export default function Product() {
           />
         </div>
       </div>
+
       <h2 className="app-subtitle">Jewelry Labels</h2>
       <div className="label-grid">
         <div className="movie-card">
@@ -139,6 +142,7 @@ export default function Product() {
           />
         </div>
       </div>
+
       <h2 className="app-subtitle">Laminated Labels</h2>
       <div className="label-grid">
         <div className="movie-card">
@@ -159,6 +163,7 @@ export default function Product() {
           />
         </div>
       </div>
+
       <h2 className="app-subtitle">Thermal Transfer Ribbons</h2>
       <div className="label-grid">
         <div className="movie-card">
